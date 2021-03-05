@@ -1,0 +1,14 @@
+button {
+    color: white;
+    background-color: rgb(226, 60, 60);
+    border-radius: 10% ;
+    border: 2px solid rgb(226, 60, 60);
+}
+.selected{
+    background-color: lightgray;
+}
+.box {
+    border: 1px solid black;
+    padding: 5px;
+    margin-bottom: 5px;
+}
